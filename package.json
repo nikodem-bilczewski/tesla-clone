@@ -1,7 +1,7 @@
 {
   "name": "tesla",
   "version": "1.0.0",
-  "description": "tesla clone website",
+  "description": "tesla clone",
   "source": "index.html",
   "scripts": {
     "start": "parcel index.html",
