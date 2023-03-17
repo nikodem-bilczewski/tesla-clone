@@ -1,0 +1,16 @@
+{
+  "name": "tesla",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Nikodem Bilczewski",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.11.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
