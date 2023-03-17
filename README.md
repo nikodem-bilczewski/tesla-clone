@@ -11,4 +11,4 @@ Simple Tesla webiste cloned by using HTML, CSS, JavaScript and gsap library.
 
 ## Demo:
 
-tesla-clone-nikodemb.netlify.app
+[Tesla Clone](tesla-clone-nikodemb.netlify.app)
