@@ -2,8 +2,10 @@
   "name": "tesla",
   "version": "1.0.0",
   "description": "",
+  "source": "index.html",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build --dist-dir public"
   },
   "author": "Nikodem Bilczewski",
   "license": "ISC",
